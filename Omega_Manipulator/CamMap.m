@@ -1,7 +1,7 @@
 function [ output ] = CamMap( x , y )
 %UNTITLED Summary of this function goes here
 %   Detailed explanation goes here
-z = 18  ; % blnesba ll coordinates bta3 el cam
+z = 18  ; 
 %%%%% Ratio 
 ratio = [0.068475 ; 0.066625];
 output_Map = double([x ; y ]).* ratio;
