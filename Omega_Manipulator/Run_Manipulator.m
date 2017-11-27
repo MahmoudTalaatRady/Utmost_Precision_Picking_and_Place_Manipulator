@@ -26,7 +26,7 @@ servoWrite(a,9,floor(Teatas_DEG(1)));
 servoWrite(a,10,floor(Teatas_DEG(2))); 
 servoWrite(b,9,floor(Teatas_DEG(3))); 
 servoWrite(b,10,floor(Teatas_DEG(4))); 
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%-----------------------------------------
 pause(1);
 %-----------------------------------------
 
